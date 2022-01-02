@@ -7,10 +7,6 @@ BEng, MBA, PhD
 
 ✨ _Professor_ ✨ at :circus_tent: University of Bakırçay, Turkey
 
-
-<!-- [![hkilter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkilter)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical) -->
-
-
 <!--
 **hkilter/hkilter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
