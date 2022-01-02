@@ -1,3 +1,5 @@
+Hey there :bowtie:
+
 I am an interdisciplinary researcher and am boldly using metaphors from biology and physics in my works such as fitness landscapes, evolutionary algorithms, swarm intelligence, gravity theory, etc. My research interests take place in three domains; _Operations management_ (supply chain management, complexity in operations, etc.), _Operations research_ (decision processes, queuing systems, simulation, etc.) and _Information systems_ (knowledge management, artificial agents, theoretical foundations of information, etc.)
 
 H. Kemal İlter  
