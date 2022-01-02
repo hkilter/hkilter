@@ -1,21 +1,23 @@
-Hey there
+Hey there :v:
 
-I am  :bowtie: an interdisciplinary researcher :microscope: and am boldly using metaphors from biology and physics in my works such as fitness landscapes, evolutionary algorithms, swarm intelligence, gravity theory, etc. My research interests take place in three domains; _Operations management_ (supply chain management, complexity in operations, etc.), _Operations research_ (decision processes, queuing systems, simulation, etc.) and _Information systems_ (knowledge management, artificial agents, theoretical foundations of information, etc.)
+I am  :bowtie: an interdisciplinary researcher :smiling_imp: and am boldly using metaphors :notes: from biology and physics in my works such as fitness landscapes, evolutionary algorithms, swarm intelligence, gravity theory, etc. My research interests take place in three domains; _Operations management_ (supply chain management, complexity in operations, etc.), _Operations research_ (decision processes, queuing systems, simulation, etc.) and _Information systems_ (knowledge management, artificial agents, theoretical foundations of information, etc.)
 
-H. Kemal İlter  
+**H. K. İlter**  
 BEng, MBA, PhD
 
-Professor, University of Bakırçay, Turkey
+✨ _Professor_ ✨ at :circus_tent: University of Bakırçay, Turkey
 
+<!--
 **hkilter/hkilter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on University of Bakırçay
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on :circus_tent: University of Bakırçay
+- 🌱 I’m currently learning :milky_way:
+- 👯 I’m looking to collaborate on something
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about anything
+- 📫 How to reach me: :link:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
